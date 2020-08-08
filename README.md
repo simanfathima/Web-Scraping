@@ -31,4 +31,4 @@ Scraping data from Youtube.
 
 We are all set to scrape the video details from YouTube. Here’s the Python code to do it.
 
-NOTE: This is a Sample Code only. The original Project dynamically Scrapes data from 500 videos from 4 different channels
+NOTE: This is a Sample Code only. The original Project dynamically Scrapes data from 500 videos from 4 different channels each
