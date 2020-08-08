@@ -2,7 +2,7 @@ Web-Scraping Using Python.
 
 Scraping data from Youtube.
 
-# Prerequisites for the Web Scraping Project
+# Prerequisites:
 --Python is required to clean the data, explore it, and build models.
 
 --Knowledge of some basic libraries like Pandas and NumPy.
@@ -11,7 +11,7 @@ Scraping data from Youtube.
 
 --Install Selenium,requests,BeautifulSoup(If required) modules.
 
-# Scraping Data From YouTube
+# Scraping Data From YouTube:
 --Open YouTube in your browser. Type in the Video you want to scrape data from. Copy the URL after doing this.
 
 --Set up the driver to fetch the content of the URL from YouTube,
